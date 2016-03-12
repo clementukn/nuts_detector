@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='training_set\s_01.jpg'>
+    <box top='30' left='45' width='1076' height='1026'/>
+  </image>
+  <image file='training_set\s_02.jpg'>
+    <box top='80' left='84' width='148' height='97'/>
+  </image>
+  <image file='training_set\s_03.jpg'>
+    <box top='222' left='195' width='409' height='304'/>
+  </image>
+  <image file='training_set\s_04.jpg'>
+    <box top='80' left='90' width='235' height='231'/>
+  </image>
+  <image file='training_set\s_05.jpg'>
+    <box top='29' left='42' width='310' height='195'/>
+  </image>
+  <image file='training_set\s_06.jpg'>
+    <box top='161' left='148' width='297' height='213'/>
+  </image>
+  <image file='training_set\s_07.jpg'>
+    <box top='12' left='8' width='239' height='253'/>
+  </image>
+  <image file='training_set\s_08.jpg'>
+    <box top='8' left='8' width='173' height='181'/>
+  </image>
+  <image file='training_set\s_09.jpg'>
+    <box top='20' left='19' width='226' height='191'/>
+  </image>
+  <image file='training_set\s_10.jpg'>
+    <box top='15' left='13' width='125' height='120'/>
+  </image>
+  <image file='training_set\s_11.jpg'>
+    <box top='8' left='9' width='83' height='75'/>
+  </image>
+  <image file='training_set\s_12.jpg'>
+    <box top='10' left='7' width='81' height='72'/>
+  </image>
+</images>
+</dataset>
