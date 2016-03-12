@@ -17,7 +17,7 @@ In order to work in a wide range of situations:
 * The detection might be improved using a contour operation (such as the one in openCV) but the 3D features of eVisionFactory probably bring more informations to be used to better train the model.
 
 ### Note
-Training the model with holes of the nuts doesn't improve the result. The holes don't contain enough informations and thrads of the holes can be detected as screws.
+Training the model with holes of the nuts doesn't improve the result. The holes don't contain enough informations and threads of the holes can be detected as screws.
 
 # Result
 Here is the detection of nuts on an untrained set:  
