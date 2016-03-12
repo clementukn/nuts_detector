@@ -1,8 +1,8 @@
-Nuts detector - Quick simulation of Random Bin Picking
+Nuts detector - Proof of concept of Random Bin Picking feature
 
 ### How it works
-It is based on the [Dlib](http://dlib.net/) library using SVM (Support Vector Machine) and compiled on Windows platform.
-The machine is trained on the training set included in the project directory.
+It is using the train objet detector tool of the [Dlib](http://dlib.net/). It has been compiled on Windows platform using Gcc 5.3.0.
+The tool implements a SVM (Support Vector Machine) to detect objects in a picture. The machine is trained on the training set included in the project directory.
 
 ### Usage
 train the machine:  
